@@ -1,0 +1,18 @@
+#
+####### requirements.txt #######
+#
+###### Requirements without Version Specifiers ######
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+ipython
+tqdm
+python_speech_features
+#
+###### Requirements with Version Specifiers ######
+tensorflow >= 1.13.1
+keras >= 2.2.4
+librosa >= 0.6.3            
+
