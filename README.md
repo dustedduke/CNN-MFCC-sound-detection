@@ -2,7 +2,7 @@
 Sound detection and classification tool based on mel-frequency cepstral coefficients extraction
 (finger snapping sound used as an example)
 
-![alt text](https://github.com/dustedduke/CNN-MFCC-sound-detection/blob/master/test/Figure_1.png =250x)
+![alt text](https://github.com/dustedduke/CNN-MFCC-sound-detection/blob/master/test/Figure_1.png | wedth=250x)
 
 ## Install
 ```shell
